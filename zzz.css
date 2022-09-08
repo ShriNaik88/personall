@@ -1,0 +1,45 @@
+*{
+    padding:0px;
+    margin:0;
+    box-sizing:border-box;
+}
+  .navstyling{
+    background-color:rgb(400, 240, 160);
+    border: 1px double black;
+    border-radius:  25px; ;
+  }
+  .p{
+    color:red;
+  }
+  .homestyle{
+    border-radius: 25px;
+    border:1px solid black;
+    margin-top: 20px;
+  }
+  .p1{
+    margin-top: 40px;
+  }
+  .footerstyling{
+    width:100%;
+    min-height:90px;
+    background-color: black;
+    border-radius:20px;
+  }
+  .footerstyling >h1{
+    color:white;
+    text-align:center;
+  }
+
+  .socialmedia > a{
+    color: white;
+  margin-left: 10px;
+  
+  }
+  .projectstyling{
+    border: 1px solid blue;
+    min-height: 400px;
+  }
+  .cardbox{
+    border: 1px solid green;
+
+  }
